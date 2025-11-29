@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: embabel-mcp-file-server
+
+embabel:
+  models:
+    defaultLlm: x-ai/grok-4.1-fast:free
+
+confluence:
+  baseUrl: ${CONFLUENCE_BASE_URL}
+  auth:
+    apiToken: ${CONFLUENCE_AUTH_TOKEN}
