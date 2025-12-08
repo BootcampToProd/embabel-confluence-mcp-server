@@ -8,7 +8,17 @@ This repository demonstrates how to build a **Confluence MCP Server** using the 
 👉 [**Embabel Framework: Build Confluence MCP Server**](https://bootcamptoprod.com/embabel-confluence-mcp-server/)
 
 🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
-👉 YouTube Tutorial - Coming soon!!
+👉 YouTube Tutorial - [**Connect AI to Confluence: Build an MCP Server Using the Embabel Framework**](https://youtu.be/XEcjdwEY9Q0)
+
+<p align="center">
+  <a href="https://youtu.be/XEcjdwEY9Q0">
+    <img src="https://img.youtube.com/vi/XEcjdwEY9Q0/0.jpg" alt="Connect AI to Confluence: Build an MCP Server Using the Embabel Framework" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/XEcjdwEY9Q0">Watch on YouTube</a>
+</p>
 
 ---
 
